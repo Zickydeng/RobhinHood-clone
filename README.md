@@ -1,5 +1,5 @@
 ## RobhinHood-Clone
-It is a REACT app that fetches stocks data from Finhub api and display a real-time stocks prices.
+Robinhood-clone is a REACT app that fetches stocks data from Finhub api and display a real-time stocks prices.
 It is also very responsive and interactive.
 
 ---
