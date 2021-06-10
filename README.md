@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+## RobhinHood-Clone
+It is a REACT app that fetches stocks data from Finhub api and display a real-time stocks prices.
+It is also very responsive and interactive.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
